@@ -1,7 +1,7 @@
-# ArduinoProjectsi
+# ArduinoProjects
 
 
-##Tree Structure
+## Tree Structure
 .
 ├── 4x\ Seven\ Segment
 │   └── 4x\ Seven\ Segment.ino
