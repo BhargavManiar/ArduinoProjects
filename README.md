@@ -5,10 +5,10 @@
 
 
 .  
-├── 4x Seven Segment. 
+├── 4x Seven Segment  
 │   └── 4x Seven Segment.ino  
 ├── LDR_LED  
-│   └── LDR_LED.ino   
+│   └── LDR_LED.ino  
 └── README.md  
 
 
