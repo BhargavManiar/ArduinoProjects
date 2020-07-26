@@ -128,5 +128,7 @@ void loop() {
 
               // 42 SECONDS
   delay(60*quantise); // 1 Minute delay
+
+  // 102 Seconds per loop:
   
 }
