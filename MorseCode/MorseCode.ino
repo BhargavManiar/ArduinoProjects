@@ -32,9 +32,9 @@ void morseDot() {
 }
 
 void morseBar() {
-  ledON():
+  ledON();
   ledDelay(2);
-  ledOFF():
+  ledOFF();
 }
 
 
@@ -68,15 +68,15 @@ void letterG() {
   
 }
 
-void letterH {
+void letterH() {
   
 }
 
-void letterI {
+void letterI() {
   
 }
 
-void letterJ {
+void letterJ() {
   
 }
 
