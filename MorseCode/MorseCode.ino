@@ -18,25 +18,29 @@ void ledOFF() {
 
 void ledDelay(int len) {
    if(len == 1){
-    delay(quantise);
+    delay(quantise); // 1 Second
    } else if(len == 2) {
-    delay(quantise*2);
+    delay(quantise*2); // 2 Second
    }
 }
 
 //__ Morse Code Base Syntax
 void morseDot() {
   ledON();
-  ledDelay(1);
+  ledDelay(1); // 1 Second
   ledOFF();
-  transitionDelay();
+  transitionDelay(); // 1 Second
+
+  // Total delay: 2 Seconds
 }
 
 void morseBar() {
   ledON();
-  ledDelay(2);
+  ledDelay(2); // 2 Seconds
   ledOFF();
-  transitionDelay();
+  transitionDelay(); // 1 Second
+
+  // Total delay: 3 Seconds
 }
 
 void transitionDelay() {
@@ -48,6 +52,8 @@ void transitionDelay() {
 void letterA() {
   morseDot();
   morseBar();
+
+  // 5
 }
 
 void letterB() {
@@ -55,6 +61,8 @@ void letterB() {
   morseDot();
   morseDot();
   morseDot();
+
+  // 9
 }
 
 void letterC() {
@@ -85,6 +93,8 @@ void letterG() {
   morseBar();
   morseBar();
   morseDot();
+
+  // 7
 }
 
 void letterH() {
@@ -110,11 +120,13 @@ void letterJ() {
 void loop() {
   letterB();
   letterA();
-  letterG();
+  letterG(); // 21 SECONDS
  
   letterB();
   letterA();
   letterG();
 
-  delay(10*quantise);
+              // 42 SECONDS
+  delay(60*quantise); // 1 Minute delay
+  
 }
