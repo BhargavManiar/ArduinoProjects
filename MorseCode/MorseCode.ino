@@ -1,5 +1,5 @@
 
-int  ledConnection = 8; // Led power is connected to port 8. 
+int ledConnection = 8; // Led power is connected to port 8. 
 int quantise = 1000; // 1 Second
 
 void setup() {
@@ -20,7 +20,7 @@ void ledDelay(int len) {
    if(len == 1){
     delay(quantise);
    } else if(len == 2) {
-    delay(quantise*2)
+    delay(quantise*2);
    }
 }
 
