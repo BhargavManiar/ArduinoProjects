@@ -121,14 +121,6 @@ void loop() {
   letterB();
   letterA();
   letterG(); // 21 SECONDS
- 
-  letterB();
-  letterA();
-  letterG();
 
-              // 42 SECONDS
-  delay(60*quantise); // 1 Minute delay
-
-  // 102 Seconds per loop:
-  
+  delay(60000); //60 Seconds
 }
