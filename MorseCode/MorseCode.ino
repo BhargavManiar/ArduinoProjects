@@ -37,10 +37,15 @@ void morseBar() {
   ledOFF();
 }
 
+void transitionDelay() {
+  delay(quantise);
+}
+
 
 //__ LETTERS
 void letterA() {
   morseDot();
+  transitionDelay();
   morseBar();
 }
 
