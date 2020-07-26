@@ -29,12 +29,14 @@ void morseDot() {
   ledON();
   ledDelay(1);
   ledOFF();
+  transitionDelay();
 }
 
 void morseBar() {
   ledON();
   ledDelay(2);
   ledOFF();
+  transitionDelay();
 }
 
 void transitionDelay() {
@@ -42,51 +44,77 @@ void transitionDelay() {
 }
 
 
-//__ LETTERS
+//__ MORSE LETTERS
 void letterA() {
   morseDot();
-  transitionDelay();
   morseBar();
 }
 
 void letterB() {
-  
+  morseBar();
+  morseDot();
+  morseDot();
+  morseDot();
 }
 
 void letterC() {
-  
+  morseBar();
+  morseDot();
+  morseBar();
+  morseDot();
 }
 
 void letterD() {
-  
+  morseBar();
+  morseDot();
+  morseDot();
 }
 
 void letterE() {
-  
+  morseDot();
 }
 
 void letterF() {
-  
+  morseDot();
+  morseDot();
+  morseBar();
+  morseDot();
 }
 
 void letterG() {
-  
+  morseBar();
+  morseBar();
+  morseDot();
 }
 
 void letterH() {
-  
+  morseDot();
+  morseDot();
+  morseDot();
+  morseDot();
 }
 
 void letterI() {
-  
+  morseDot();
+  morseDot();
 }
 
 void letterJ() {
-  
+  morseDot();
+  morseBar();
+  morseBar();
+  morseBar();
 }
 
 
 void loop() {
+  letterB();
   letterA();
-  delay(10000);
+  letterG();
+ 
+  letterB();
+  letterA();
+  letterG();
+
+  delay(10*quantise);
 }
