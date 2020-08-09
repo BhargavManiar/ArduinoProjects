@@ -25,7 +25,7 @@ void morseDot() {
   ledON();
   ledDelay(1); // 1 Second
   ledOFF();
-  transitionDelay(); // 1 Second
+  ledDelay(1); // 1 Second
 
   // Total delay: 2 Seconds
 }
@@ -34,9 +34,9 @@ void morseBar() {
   ledON();
   ledDelay(2); // 2 Seconds
   ledOFF();
-  transitionDelay(); // 1 Second
+  ledDelay(2); // 2 Seconds
 
-  // Total delay: 3 Seconds
+  // Total delay: 4 Seconds
 }
 
 
