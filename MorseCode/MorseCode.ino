@@ -118,9 +118,12 @@ void letterJ() {
 
 
 void loop() {
-  letterB();
-  letterA();
-  letterG(); // 21 SECONDS
+  letterB(); // -...
+  letterA(); // .-
+  letterG(); // --.
+  // 21 SECONDS
+
+  //Final string should be -....---.
 
   delay(60000); //60 Seconds
 }

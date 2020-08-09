@@ -27,12 +27,12 @@ void loop() {
     
   }
   
-  if(counterTwo >= 30) {
+  if(counterTwo >= 50) {
     counterTwo = 0;
     Serial.println("Seems that the transmission has finished");
   }
   
-  if(counterOne >= 30) {
+  if(counterOne >= 50) {
     counterOne = 0;
     Serial.println("Seems that the transmission has finished");
   }
