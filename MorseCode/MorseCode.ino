@@ -125,5 +125,5 @@ void loop() {
 
   //Final string should be -....---.
 
-  delay(60000); //60 Seconds
+  delay(20*quantise); //20 Seconds
 }
