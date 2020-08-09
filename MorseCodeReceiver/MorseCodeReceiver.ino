@@ -13,30 +13,28 @@ void loop() {
   
   int LDR_out = analogRead(LDR);
   
-  if(LDR_out >= 1000) {
-    high = true; 
-    Serial.println("High");
-    
-  } else {
-    high = false;; 
-    Serial.println("Low");
-  }
-
-  if(high == true) {
+  if(LDR_out >= 1000) { // Dark 
     counterOne ++;
+    Serial.print("LED Off Counter One: ");
     Serial.println(counterOne);
-    counterTwo = 0; 
-  } else {
+    counterTwo = 0;
+    
+  } else {            // Light
     counterTwo ++;
+    Serial.print("LED On Counter Two: ");
     Serial.println(counterTwo); 
     counterOne = 0;
-  }
-
-  if(counterTwo == 1000) {
-    counterTwo = 0;
+    
   }
   
-  if(counterOne == 1000) {
-    counterOne = 0;
+  if(counterTwo >= 30) {
+    counterTwo = 0;
+    Serial.println("Seems that the transmission has finished");
   }
+  
+  if(counterOne >= 30) {
+    counterOne = 0;
+    Serial.println("Seems that the transmission has finished");
+  }
+  delay(100);
 }
