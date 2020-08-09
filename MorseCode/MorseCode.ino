@@ -39,10 +39,6 @@ void morseBar() {
   // Total delay: 3 Seconds
 }
 
-void transitionDelay() {
-  delay(quantise);
-}
-
 
 //__ MORSE LETTERS
 void letterA() {
