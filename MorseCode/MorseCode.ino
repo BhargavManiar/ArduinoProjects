@@ -17,11 +17,7 @@ void ledOFF() {
 }
 
 void ledDelay(int len) {
-   if(len == 1){
-    delay(quantise); // 1 Second
-   } else if(len == 2) {
-    delay(quantise*2); // 2 Second
-   }
+    delay(quantise*len); // 1 Second * len
 }
 
 //__ Morse Code Base Syntax
