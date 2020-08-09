@@ -33,7 +33,7 @@ void loop() {
     counterOne = 0;
   }
 
-  if(currentState != priorStatus)
+  if(currentState != priorState)
   {
     Serial.println("Change");
     priorState = currentState;
