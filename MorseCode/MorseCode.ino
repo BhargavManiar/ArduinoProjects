@@ -1,6 +1,6 @@
 
 int ledConnection = 13; // Led power is connected to port 8. 
-int quantise = 1000; // 1 Second
+int quantise = 1000;    // 1 Second
 
 void setup() {
   pinMode(ledConnection, OUTPUT);
@@ -199,6 +199,7 @@ void letterZ(){
 }
 
 void loop() {
+  ledDelay(10);
   letterB();
   letterH();
   letterA();
@@ -206,5 +207,5 @@ void loop() {
   letterG();
   letterA();
   letterV();
-  ledDelay(20);
+  ledDelay(10);
 }

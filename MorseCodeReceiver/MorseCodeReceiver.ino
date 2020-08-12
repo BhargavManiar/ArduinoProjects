@@ -22,11 +22,12 @@ void loop() {
 
   if(currentState != priorState) {
     
-
-    if(changeOfStateCounter == 9 && currentState == false){
+  if(currentState == false)
+    // Value of changeOfStateCounter when the currentState changes
+    if(changeOfStateCounter == 9 || changeOfStateCounter == 10 || changeOfStateCounter == 11 || changeOfStateCounter == 8) {
       Serial.println(".");
     }
-    if(changeOfStateCounter == 19 && currentState == false){
+    if(changeOfStateCounter == 19 || changeOfStateCounter == 20 || changeOfStateCounter == 21 || changeOfStateCounter == 18){
       Serial.println("-");
     }
     changeOfStateCounter = 0; // Reset the counter
