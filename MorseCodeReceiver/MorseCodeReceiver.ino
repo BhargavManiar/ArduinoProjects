@@ -6,6 +6,7 @@ int changeOfStateCounter = 0; // Hold the count of the change
 
 bool currentState;
 bool priorState;
+bool restartLoop; 
 
 
 void setup() {
@@ -20,37 +21,32 @@ void loop() {
   if(LDR_out >= 1000) { // Dark 
     currentState = false;
     counterOne ++;
-    //Serial.print("LED Off Counter One: ");
-    //Serial.println(counterOne);
-    counterTwo = 0;
-    
+    counterTwo = 0; 
   } else {            // Light
     currentState = true;
     counterTwo ++;
-    //Serial.print("LED On Counter Two: ");
-    //Serial.println(counterTwo); 
     counterOne = 0;
   }
 
-  if(currentState != priorState)
-  {
-    //Serial.println("Change");
+  if(currentState != priorState) {
     priorState = currentState;
-    // Add print of counter two here 
-    //Serial.println(currentState);
-    Serial.println(changeOfStateCounter);
+
+    if(changeOfStateCounter == 9){
+      Serial.print(".");
+    }
+    if(changeOfStateCounter == 19){
+      Serial.print("-");
+    }
     changeOfStateCounter = 0; // Reset the counter
   }
-  else // I.e the same state
-  {
+  else { // Counter at the same state
     changeOfStateCounter++;
   }
   
-  if(counterTwo >= 50 || counterOne >= 50) {
-    counterTwo = 0;
-    counterOne = 0;
+  if(changeOfStateCounter > 200) { 
+    changeOfStateCounter = 0;
     Serial.println("Seems that the transmission has finished");
   }
-  
+
   delay(100);
 }
