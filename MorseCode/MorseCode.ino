@@ -101,14 +101,8 @@ void letterJ() {
 
 
 void loop() {
-  letterB(); // -...
-  letterA(); // .-
-  letterG(); // --.
-
-  // Expected time is 26 seconds
-  
-
-  // Final string should be -....---.
+  letterI(); //..
+  // 4 Seconds to transmit
 
   delay(20*quantise); //20 Seconds
 }
