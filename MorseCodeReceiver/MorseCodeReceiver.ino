@@ -32,12 +32,12 @@ void loop() {
     
 
     if(changeOfStateCounter == 9 && currentState == false){
-      Serial.print(".");
+      Serial.println(".");
       //Serial.println(counterOne);
       //Serial.println(counterTwo);
     }
     if(changeOfStateCounter == 19 && currentState == false){
-      Serial.print("-");
+      Serial.println("-");
       //Serial.println(counterOne);
       //Serial.println(counterTwo);
     }
@@ -48,7 +48,7 @@ void loop() {
     changeOfStateCounter++;
   }
   
-  if(changeOfStateCounter > 200) { 
+  if(changeOfStateCounter > 100) { 
     changeOfStateCounter = 0;
     Serial.println("Seems that the transmission has finished");
   }
