@@ -6,6 +6,6 @@ void setup() {
 void loop() {
   int ldr = analogRead(A0);
 
-  delay(500);
+  delay(10);
   Serial.println(ldr);
 }
