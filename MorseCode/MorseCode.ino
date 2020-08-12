@@ -101,8 +101,6 @@ void letterJ() {
 
 
 void loop() {
-  morseDot(); // 2 Seconds
-  morseBar(); // 4 Seconds
-  
+  letterJ();
   delay(20*quantise); //20 Seconds
 }
