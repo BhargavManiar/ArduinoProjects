@@ -1,5 +1,5 @@
 
-int ledConnection = 8; // Led power is connected to port 8. 
+int ledConnection = 13; // Led power is connected to port 8. 
 int quantise = 1000; // 1 Second
 
 void setup() {
@@ -101,10 +101,6 @@ void letterJ() {
 
 
 void loop() {
-  morseBar();
-  morseBar();
-  morseBar();
-
-  ledOFF();
-  delay(20*quantise); //20 Seconds
+  letterJ();
+  ledDelay(20);
 }
