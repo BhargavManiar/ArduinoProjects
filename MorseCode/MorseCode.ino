@@ -104,5 +104,7 @@ void loop() {
   morseBar();
   morseBar();
   morseBar();
+
+  ledOFF();
   delay(20*quantise); //20 Seconds
 }
