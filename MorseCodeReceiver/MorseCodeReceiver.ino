@@ -32,14 +32,14 @@ void loop() {
     
 
     if(changeOfStateCounter == 9 && currentState == false){
-      Serial.println(".");
-      Serial.println(counterOne);
-      Serial.println(counterTwo);
+      Serial.print(".");
+      //Serial.println(counterOne);
+      //Serial.println(counterTwo);
     }
     if(changeOfStateCounter == 19 && currentState == false){
-      Serial.println("-");
-      Serial.println(counterOne);
-      Serial.println(counterTwo);
+      Serial.print("-");
+      //Serial.println(counterOne);
+      //Serial.println(counterTwo);
     }
     changeOfStateCounter = 0; // Reset the counter
     priorState = currentState; // Make the prior state the current one
