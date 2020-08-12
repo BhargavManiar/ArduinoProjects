@@ -22,14 +22,14 @@ void ledDelay(int len) {
 
 //__ Morse Code Base Syntax
 
-void morseDot() { // Total delay: 2 Seconds
+void Dot() { // Total delay: 2 Seconds
   ledON();
   ledDelay(1); // 1 Second
   ledOFF();
   ledDelay(1); // 1 Second
 }
 
-void morseBar() {  // Total delay: 4 Seconds
+void Bar() {  // Total delay: 4 Seconds
   ledON();
   ledDelay(2); // 2 Seconds
   ledOFF();
@@ -39,68 +39,172 @@ void morseBar() {  // Total delay: 4 Seconds
 
 //__ MORSE LETTERS
 void letterA() {
-  morseDot();
-  morseBar();
+  Dot();
+  Bar();
 }
 
 void letterB() {
-  morseBar();
-  morseDot();
-  morseDot();
-  morseDot();
+  Bar();
+  Dot();
+  Dot();
+  Dot();
 }
 
 void letterC() {
-  morseBar();
-  morseDot();
-  morseBar();
-  morseDot();
+  Bar();
+  Dot();
+  Bar();
+  Dot();
 }
 
 void letterD() {
-  morseBar();
-  morseDot();
-  morseDot();
+  Bar();
+  Dot();
+  Dot();
 }
 
 void letterE() {
-  morseDot();
+  Dot();
 }
 
 void letterF() {
-  morseDot();
-  morseDot();
-  morseBar();
-  morseDot();
+  Dot();
+  Dot();
+  Bar();
+  Dot();
 }
 
 void letterG() {
-  morseBar();
-  morseBar();
-  morseDot();
+  Bar();
+  Bar();
+  Dot();
 }
 
 void letterH() {
-  morseDot();
-  morseDot();
-  morseDot();
-  morseDot();
+  Dot();
+  Dot();
+  Dot();
+  Dot();
 }
 
 void letterI() {
-  morseDot();
-  morseDot();
+  Dot();
+  Dot();
 }
 
 void letterJ() {
-  morseDot();
-  morseBar();
-  morseBar();
-  morseBar();
+  Dot();
+  Bar();
+  Bar();
+  Bar();
 }
 
+void letterK(){
+  Bar();
+  Dot();
+  Bar();
+}
+
+void letterL(){
+  Dot();
+  Bar();
+  Dot();
+  Dot();
+}
+
+void letterM(){
+  Bar();
+  Bar();
+}
+
+void letterN(){
+  Bar();
+  Dot(); 
+}
+
+void letterO(){
+  Bar();
+  Bar();
+  Bar();
+}
+
+void letterP(){
+  Dot();
+  Bar();
+  Bar();
+  Dot();
+}
+
+void letterQ(){
+  Bar();
+  Bar();
+  Dot();
+  Bar();
+}
+
+void letterR(){
+  Dot();
+  Bar();
+  Dot();
+}
+
+void letterS(){
+  Dot();
+  Dot();
+  Dot();
+}
+
+void letterT(){
+  Bar();
+}
+
+void letterU(){
+  Dot();
+  Dot();
+  Bar();
+}
+
+void letterV(){
+  Dot();
+  Dot();
+  Dot();
+  Bar();
+}
+
+void letterW(){
+  Dot();
+  Bar();
+  Bar();
+}
+
+void letterX(){
+  Bar();
+  Dot();
+  Dot();
+  Bar();
+}
+
+void letterY(){
+  Bar();
+  Dot();
+  Bar();
+  Bar();
+}
+
+void letterZ(){
+  Bar();
+  Bar();
+  Dot();
+  Dot();
+}
 
 void loop() {
-  letterJ();
+  letterB();
+  letterH();
+  letterA();
+  letterR();
+  letterG();
+  letterA();
+  letterV();
   ledDelay(20);
 }
