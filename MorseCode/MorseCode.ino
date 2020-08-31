@@ -1,5 +1,5 @@
 
-int ledConnection = 13; // Led power is connected to port 8. 
+int ledConnection = 13; // Led power is connected to port 13. 
 int quantise = 1000;    // 1 Second
 
 void setup() {
