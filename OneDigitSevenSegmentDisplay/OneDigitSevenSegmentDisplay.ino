@@ -59,7 +59,7 @@ void displayOutputNumber(int number) {
       digitalWrite(f, HIGH);
       digitalWrite(g, HIGH);
       break;
-    case 1; 
+    case 1:
       digitalWrite(a, HIGH);
       digitalWrite(e, HIGH);
       break;
@@ -134,7 +134,7 @@ void displayOutputDot() {
 
 // Tests all of the LEDs
 void testLeds() {
-  turnOn()
+  turnOn();
   delay(100);
   turnOff();
 }
@@ -146,7 +146,10 @@ void incrementNumbers() {
   }
 }
 
+// Main Loop
 void loop() {
-
-
+  testLeds();
+  Serial.println("Test Complete");
+  incrementNumbers();
+  Serial.println("Increment Numbers Comlpete");
 }
