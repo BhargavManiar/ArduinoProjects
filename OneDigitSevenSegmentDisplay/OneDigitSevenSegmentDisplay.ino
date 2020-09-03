@@ -144,7 +144,7 @@ void testLeds() {
 void incrementNumbers() {
   for(int i = 0; i < 10; i++) {
     displayOutputNumber(i);
-    delay(100); // Delay for persistance of vision reasons.
+    delay(500); // Delay for persistance of vision reasons.
   }
 }
 
@@ -154,4 +154,5 @@ void loop() {
   Serial.println("Test Complete");
   incrementNumbers();
   Serial.println("Increment Numbers Comlpete");
+  break;
 }
