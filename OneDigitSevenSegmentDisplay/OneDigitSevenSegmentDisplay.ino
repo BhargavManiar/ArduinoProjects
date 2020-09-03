@@ -9,6 +9,7 @@ int e = 6;   // For displaying segment "e"
 int f = 7;   // For displaying segment "f"
 int g = 8;   // For displaying segment "g"
 
+// Sets up all of the pins as output
 void setup() {
   pinMode(a,OUTPUT);  // A
   pinMode(b,OUTPUT);  // B
@@ -20,6 +21,18 @@ void setup() {
   pinMode(dot,OUTPUT);// Dot
   
   Serial.begin(9600);
+}
+
+// Turns off all LEDs
+void turnOff() {
+  digitalWrite(a,LOW);
+  digitalWrite(b,LOW);
+  digitalWrite(c,LOW);
+  digitalWrite(d,LOW);
+  digitalWrite(e,LOW);
+  digitalWrite(f,LOW);
+  digitalWrite(g,LOW);
+  digitalWrite(dot,LOW);
 }
 
 void loop() {
