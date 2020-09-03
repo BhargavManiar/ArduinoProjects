@@ -47,6 +47,92 @@ void turnOn() {
   digitalWrite(dot,HIGH);
 }
 
+// Activates LEDs to display number
+void displayOutputNumber(int number) {
+  
+  switch(number) {
+    case 0:
+      digitalWrite(a, HIGH); 
+      digitalWrite(c, HIGH);
+      digitalWrite(d, HIGH);
+      digitalWrite(e, HIGH);
+      digitalWrite(f, HIGH);
+      digitalWrite(g, HIGH);
+      break;
+    case 1; 
+      digitalWrite(a, HIGH);
+      digitalWrite(e, HIGH);
+      break;
+    case 2:
+      digitalWrite(f, HIGH);
+      digitalWrite(g, HIGH);
+      digitalWrite(b, HIGH); 
+      digitalWrite(d, HIGH);
+      digitalWrite(e, HIGH); 
+      break;
+    case 3:
+      digitalWrite(f, HIGH);
+      digitalWrite(g, HIGH); 
+      digitalWrite(b, HIGH); 
+      digitalWrite(c, HIGH); 
+      digitalWrite(d, HIGH);
+      break;
+    case 4:
+      digitalWrite(a, HIGH); 
+      digitalWrite(b, HIGH);
+      digitalWrite(g, HIGH);
+      digitalWrite(c, HIGH);
+      break;
+    case 5:
+      digitalWrite(f, HIGH);
+      digitalWrite(a, HIGH);
+      digitalWrite(b, HIGH);
+      digitalWrite(c, HIGH);
+      digitalWrite(d, HIGH);
+      break;
+    case 6:
+      digitalWrite(a, HIGH); 
+      digitalWrite(b, HIGH); 
+      digitalWrite(c, HIGH); 
+      digitalWrite(d, HIGH);
+      digitalWrite(e, HIGH);
+      break;
+    case 7:
+      digitalWrite(f, HIGH); 
+      digitalWrite(g, HIGH); 
+      digitalWrite(c, HIGH);
+      break;
+    case 8:
+      digitalWrite(a, HIGH); 
+      digitalWrite(b, HIGH); 
+      digitalWrite(c, HIGH);
+      digitalWrite(d, HIGH);
+      digitalWrite(e, HIGH);
+      digitalWrite(f, HIGH);
+      digitalWrite(g, HIGH);
+      break;
+    case 9:
+      digitalWrite(a, HIGH); 
+      digitalWrite(b, HIGH); 
+      digitalWrite(c, HIGH);
+      digitalWrite(d, HIGH);
+      digitalWrite(f, HIGH);
+      digitalWrite(g, HIGH);
+      break;
+      
+    default: {
+      break; 
+    }
+  }
+  
+}
+
+// Activates LED to display dot in addition to any other LEDs active
+void displayOutputDot() {
+  digitalWrite(dot,HIGH);
+}
+
+
 void loop() {
   
 
