@@ -143,6 +143,7 @@ void testLeds() {
 void incrementNumbers() {
   for(int i = 0; i < 10; i++) {
     displayOutputNumber(i);
+    delay(100); // Delay for persistance of vision reasons.
   }
 }
 
