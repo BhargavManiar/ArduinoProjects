@@ -35,6 +35,18 @@ void turnOff() {
   digitalWrite(dot,LOW);
 }
 
+// Turns on all LEDs
+void turnOn() {
+  digitalWrite(a,HIGH);
+  digitalWrite(b,HIGH);
+  digitalWrite(c,HIGH);
+  digitalWrite(d,HIGH);
+  digitalWrite(e,HIGH);
+  digitalWrite(f,HIGH);
+  digitalWrite(g,HIGH);
+  digitalWrite(dot,HIGH);
+}
+
 void loop() {
   
 
