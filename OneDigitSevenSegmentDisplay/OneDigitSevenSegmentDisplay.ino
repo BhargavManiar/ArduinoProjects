@@ -53,53 +53,54 @@ void displayOutputNumber(int number) {
   switch(number) {
     case 0:
       digitalWrite(a, HIGH); 
+      digitalWrite(b, HIGH);
       digitalWrite(c, HIGH);
       digitalWrite(d, HIGH);
       digitalWrite(e, HIGH);
       digitalWrite(f, HIGH);
-      digitalWrite(g, HIGH);
       break;
     case 1:
-      digitalWrite(a, HIGH);
-      digitalWrite(e, HIGH);
+      digitalWrite(b, HIGH);
+      digitalWrite(c, HIGH);
       break;
     case 2:
-      digitalWrite(f, HIGH);
-      digitalWrite(g, HIGH);
-      digitalWrite(b, HIGH); 
-      digitalWrite(d, HIGH);
-      digitalWrite(e, HIGH); 
+      digitalWrite(a, HIGH);
+      digitalWrite(b, HIGH);
+      digitalWrite(g, HIGH); 
+      digitalWrite(e, HIGH);
+      digitalWrite(d, HIGH); 
       break;
     case 3:
-      digitalWrite(f, HIGH);
-      digitalWrite(g, HIGH); 
+      digitalWrite(a, HIGH);
       digitalWrite(b, HIGH); 
+      digitalWrite(g, HIGH); 
       digitalWrite(c, HIGH); 
       digitalWrite(d, HIGH);
       break;
     case 4:
-      digitalWrite(a, HIGH); 
-      digitalWrite(b, HIGH);
+      digitalWrite(f, HIGH); 
       digitalWrite(g, HIGH);
+      digitalWrite(b, HIGH);
       digitalWrite(c, HIGH);
       break;
     case 5:
-      digitalWrite(f, HIGH);
       digitalWrite(a, HIGH);
-      digitalWrite(b, HIGH);
+      digitalWrite(f, HIGH);
+      digitalWrite(g, HIGH);
       digitalWrite(c, HIGH);
       digitalWrite(d, HIGH);
       break;
     case 6:
       digitalWrite(a, HIGH); 
-      digitalWrite(b, HIGH); 
-      digitalWrite(c, HIGH); 
-      digitalWrite(d, HIGH);
-      digitalWrite(e, HIGH);
-      break;
-    case 7:
       digitalWrite(f, HIGH); 
       digitalWrite(g, HIGH); 
+      digitalWrite(e, HIGH);
+      digitalWrite(c, HIGH);
+      digitalWrite(d, HIGH);
+      break;
+    case 7:
+      digitalWrite(a, HIGH); 
+      digitalWrite(b, HIGH); 
       digitalWrite(c, HIGH);
       break;
     case 8:
@@ -141,9 +142,9 @@ void displayOutputDot(boolean state) {
 
 // Tests all of the LEDs
 void testLeds() {
-  
+  turnOn();
   delay(500);
-  
+  turnOff();
   delay(500);
 }
 
@@ -151,7 +152,7 @@ void testLeds() {
 void incrementNumbers() {
   for(int i = 0; i < 10; i++) {
     displayOutputNumber(i);
-    Serial.println("Now displaying " + i);
+    //Serial.println("Now displaying ");
     delay(500); // Delay for persistance of vision reasons.
   }
   Serial.println("Increment Numbers Complete");
@@ -159,5 +160,11 @@ void incrementNumbers() {
 
 // Main Loop
 void loop() {
-  
+  incrementNumbers();
+  delay(500);
+  turnOff();
+  displayOutputDot(true);
+  delay(500);
+  displayOutputDot(false);
+  delay(500); 
 }
