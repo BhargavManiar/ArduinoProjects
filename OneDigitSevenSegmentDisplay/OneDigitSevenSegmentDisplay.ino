@@ -137,6 +137,7 @@ void testLeds() {
   turnOn();
   delay(100);
   turnOff();
+  delay(100);
 }
 
 // Iterates through numbers 0 to 9
