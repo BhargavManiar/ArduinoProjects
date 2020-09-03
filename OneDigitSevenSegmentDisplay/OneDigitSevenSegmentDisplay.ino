@@ -49,7 +49,7 @@ void turnOn() {
 
 // Activates LEDs to display number
 void displayOutputNumber(int number) {
-  
+  turnOff(); // Turn all of the LEDs to a netural state
   switch(number) {
     case 0:
       digitalWrite(a, HIGH); 
@@ -132,8 +132,21 @@ void displayOutputDot() {
   digitalWrite(dot,HIGH);
 }
 
+// Tests all of the LEDs
+void testLeds() {
+  turnOn()
+  delay(100);
+  turnOff();
+}
+
+// Iterates through numbers 0 to 9
+void incrementNumbers() {
+  for(int i = 0; i < 10; i++) {
+    displayOutputNumber(i);
+  }
+}
 
 void loop() {
-  
+
 
 }
