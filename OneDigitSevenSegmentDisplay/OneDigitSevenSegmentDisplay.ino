@@ -1,13 +1,13 @@
 
 // Pin configuration
-int dot = 12; // For displaying segment "."
-int a = 2;   // For displaying segment "a"
-int b = 3;   // For displaying segment "b"
-int c = 4;   // For displaying segment "c"
-int d = 5;   // For displaying segment "d"
-int e = 6;   // For displaying segment "e"
-int f = 7;   // For displaying segment "f"
-int g = 8;   // For displaying segment "g"
+const int dot = 12; // For displaying segment "."
+const int a = 2;   // For displaying segment "a"
+const int b = 3;   // For displaying segment "b"
+const int c = 4;   // For displaying segment "c"
+const int d = 5;   // For displaying segment "d"
+const int e = 6;   // For displaying segment "e"
+const int f = 7;   // For displaying segment "f"
+const int g = 8;   // For displaying segment "g"
 
 // Sets up all of the pins as output
 void setup() {
@@ -130,9 +130,11 @@ void displayOutputNumber(int number) {
 // Activates LED to display dot in addition to any other LEDs active
 void displayOutputDot(boolean state) {
   if (state == true) {
-    digitalWrite(dot,HIGH);  
+    digitalWrite(dot,HIGH); 
+    Serial.println("Dot on");
   } else if (state == false) {
     digitalWrite(dot,LOW);
+    Serial.println("Dot off");
   }
   
 }
@@ -155,11 +157,5 @@ void incrementNumbers() {
 
 // Main Loop
 void loop() {
-  Serial.println("Dot on");
-  displayOutputDot(true);
-  delay(1000);
-
-  Serial.println("Dot off");
-  displayOutputDot(false);
-  delay(1000);
+  
 }
