@@ -151,8 +151,10 @@ void testLeds() {
 void incrementNumbers() {
   for(int i = 0; i < 10; i++) {
     displayOutputNumber(i);
+    Serial.println("Now displaying " + i);
     delay(500); // Delay for persistance of vision reasons.
   }
+  Serial.println("Increment Numbers Complete");
 }
 
 // Main Loop
