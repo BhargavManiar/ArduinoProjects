@@ -198,6 +198,87 @@ void letterZ(){
   Dot();
 }
 
+
+void one() {
+  Dot();
+  Bar();
+  Bar();
+  Bar();
+  Bar();
+}
+
+void two() {
+  Dot();
+  Dot();
+  Bar();
+  Bar();
+  Bar();
+}
+
+void three() {
+  Dot();
+  Dot();
+  Dot();
+  Bar();
+  Bar();
+}
+
+void four() {
+  Dot();
+  Dot();
+  Dot();
+  Dot();
+  Bar();
+}
+
+void five() {
+  Dot();
+  Dot();
+  Dot();
+  Dot();
+  Dot();
+}
+
+void six() {
+  Bar();
+  Dot();
+  Dot();
+  Dot();
+  Dot();  
+}
+
+void seven() {
+  Bar();
+  Bar();
+  Dot();
+  Dot();
+  Dot();
+}
+
+void eight() {
+  Bar();
+  Bar();
+  Bar();
+  Dot();
+  Dot();
+}
+
+void nine() {
+  Bar();
+  Bar();
+  Bar();
+  Bar();
+  Dot();
+}
+
+void zero() {
+  Bar();
+  Bar();
+  Bar();
+  Bar();
+  Bar();
+}
+
 void loop() {
   ledDelay(10);
   letterB();
