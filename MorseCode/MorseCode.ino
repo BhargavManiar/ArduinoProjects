@@ -36,6 +36,14 @@ void Bar() {  // Total delay: 4 Seconds
   ledDelay(1); // 1 Seconds
 }
 
+void spaceBetweenLetters() { // Total delay: 3 Seconds
+  ledDelay(3); // 3 Seconds
+}
+
+void spaceBetweenWords() { // Total delay: 7 Seconds
+  ledDelay(7); // 7 Seconds
+}
+
 
 //__ MORSE LETTERS
 void letterA() {
