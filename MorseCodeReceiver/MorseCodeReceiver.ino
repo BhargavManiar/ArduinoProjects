@@ -20,22 +20,33 @@ void loop() {
     currentState = true;
   }
 
-  if(currentState != priorState) {
+ if(currentState != priorState) {
     
-  if(currentState == false)
-    // Value of changeOfStateCounter when the currentState changes
-    if(changeOfStateCounter == 9 || changeOfStateCounter == 10 || changeOfStateCounter == 11 || changeOfStateCounter == 8) {
-      Serial.println(".");
+    if(currentState == false){
+      // Value of changeOfStateCounter when the currentState changes
+  
+      // Dot - 1 Second On Time
+      if(changeOfStateCounter >= 8 && changeOfStateCounter <= 10) {
+        Serial.println(".");
+      }
+      
+      // Bar - 3 Seconds On Time
+      if(changeOfStateCounter >= 11 && changeOfStateCounter <= 20){
+        Serial.println("-");
+      }
+  
+      // Word Space - 7 Seconds On Time
+      if(changeOfStateCounter >= 21 && changeOfStateCounter <= 42){
+        Serial.print(" "); // Space
+      }
+      
+      changeOfStateCounter = 0; // Reset the counter
+      priorState = currentState; // Make the prior state the current one
+      
+    } else { // Counter at the same state
+      changeOfStateCounter++;
     }
-    if(changeOfStateCounter == 19 || changeOfStateCounter == 20 || changeOfStateCounter == 21 || changeOfStateCounter == 18){
-      Serial.println("-");
-    }
-    changeOfStateCounter = 0; // Reset the counter
-    priorState = currentState; // Make the prior state the current one
-  }
-  else { // Counter at the same state
-    changeOfStateCounter++;
-  }
+ }
   
   if(changeOfStateCounter > 100) { 
     changeOfStateCounter = 0;
