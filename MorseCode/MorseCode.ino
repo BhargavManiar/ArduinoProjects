@@ -22,18 +22,16 @@ void ledDelay(int len) {
 
 //__ Morse Code Base Syntax
 
-void Dot() { // Total delay: 2 Seconds
+void Dot() { // Total delay: 1 Seconds
   ledON();
   ledDelay(1); // 1 Second
   ledOFF();
-  ledDelay(1); // 1 Second
 }
 
-void Bar() {  // Total delay: 4 Seconds
+void Bar() {  // Total delay: 3 Seconds
   ledON();
   ledDelay(3); // 3 Seconds
   ledOFF();
-  ledDelay(1); // 1 Seconds
 }
 
 void spaceBetweenLetters() { // Total delay: 3 Seconds
