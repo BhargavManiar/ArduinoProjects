@@ -31,9 +31,9 @@ void Dot() { // Total delay: 2 Seconds
 
 void Bar() {  // Total delay: 4 Seconds
   ledON();
-  ledDelay(2); // 2 Seconds
+  ledDelay(3); // 3 Seconds
   ledOFF();
-  ledDelay(2); // 2 Seconds
+  ledDelay(1); // 1 Seconds
 }
 
 
