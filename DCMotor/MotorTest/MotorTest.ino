@@ -5,5 +5,5 @@ void setup() {
 }
 
 void loop() {
-  digitalWrite(motorPin, HIGH);
+  digitalWrite(motor, HIGH);
 }
