@@ -9,8 +9,11 @@ float duration, distance;
 void setup() {
   pinMode(triggerPin, OUTPUT);  // To send the pulses
   pinMode(echoPin, INPUT);      // To recieve the pulses
+  Serial.begin(9600);
 }
 
+
+// Main loop
 void loop () {
   digitalWrite(triggerPin, LOW);
   delayMicroseconds(2);
