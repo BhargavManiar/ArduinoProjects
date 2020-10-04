@@ -7,3 +7,8 @@ int angle = 0;    // This is the angle from the start point
 void setup() {
   servoMotor.attach(servoPin); // We can write to this pin.  
 }
+
+void loop() {
+  servoMotor.write(90); // Move the arm
+  delay(1000);       // Wait one second
+}
