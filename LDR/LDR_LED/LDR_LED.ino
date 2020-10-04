@@ -1,5 +1,5 @@
 int LDRval = A0;
-int led = 12;
+int led = 7;
 bool debug = 1;
 
 
