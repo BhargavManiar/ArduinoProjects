@@ -9,9 +9,10 @@ void setup() {
 }
 
 void loop() {
+  int chk = digitalSensor.read11(sensorPin);
   
-  float temperature = digitalSensor.temperature;
-  float humidity = digitalSensor.humidity;
+  int temperature = digitalSensor.temperature;
+  int humidity = digitalSensor.humidity;
   
   Serial.print("The temperature is: ");
   Serial.println(temperature);
