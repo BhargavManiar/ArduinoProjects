@@ -1,8 +1,7 @@
-#include <Adafruit_Sensor.h>
-#include <DHT.h>
-#include <DHT_U.h>
+#include <dht.h>
 
-DHT digitalSensor; // Object
+
+dht digitalSensor; // Object
 int sensorPin = 5;
 
 void setup() {
@@ -11,12 +10,13 @@ void setup() {
 
 void loop() {
   
-  float temperature = digitalSensor.readTemperature;
-  float humidity = digitalSensor.readHumidity;
+  float temperature = digitalSensor.temperature;
+  float humidity = digitalSensor.humidity;
   
-  Serial.println("The temperature is: ");
-  Serial.print(temperature);
+  Serial.print("The temperature is: ");
+  Serial.println(temperature);
 
-  Serial.println("The humidity is: ");
-  Serial.print(humidity);
+  Serial.print("The humidity is: ");
+  Serial.println(humidity);
+  delay(2000);
 }
