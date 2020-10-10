@@ -9,4 +9,237 @@ _______________
 Temperature: 26°C
 Humidity is: 72%
 _______________
- 
+
+Temperature: 26°C
+Humidity is: 95%
+_______________
+
+Temperature: 26°C
+Humidity is: 77%
+_______________
+
+Temperature: 26°C
+Humidity is: 73%
+_______________
+
+Temperature: 26°C
+Humidity is: 71%
+_______________
+
+Temperature: 26°C
+Humidity is: 71%
+_______________
+
+Temperature: 26°C
+Humidity is: 71%
+_______________
+
+Temperature: 26°C
+Humidity is: 71%
+_______________
+
+Temperature: 26°C
+Humidity is: 71%
+_______________
+
+Temperature: 26°C
+Humidity is: 72%
+_______________
+
+Temperature: 26°C
+Humidity is: 73%
+_______________
+
+Temperature: 25°C
+Humidity is: 72%
+_______________
+
+Temperature: 25°C
+Humidity is: 72%
+_______________
+
+Temperature: 25°C
+Humidity is: 72%
+_______________
+
+Temperature: 25°C
+Humidity is: 73%
+_______________
+
+Temperature: 25°C
+Humidity is: 73%
+_______________
+
+Temperature: 25°C
+Humidity is: 73%
+_______________
+
+Temperature: 25°C
+Humidity is: 74%
+_______________
+
+Temperature: 25°C
+Humidity is: 74%
+_______________
+
+Temperature: 25°C
+Humidity is: 74%
+_______________
+
+Temperature: 25°C
+Humidity is: 75%
+_______________
+
+Temperature: 25°C
+Humidity is: 75%
+_______________
+
+Temperature: 25°C
+Humidity is: 75%
+_______________
+
+Temperature: 25°C
+Humidity is: 75%
+_______________
+
+Temperature: 24°C
+Humidity is: 76%
+_______________
+
+Temperature: 24°C
+Humidity is: 76%
+_______________
+
+Temperature: 24°C
+Humidity is: 76%
+_______________
+
+Temperature: 24°C
+Humidity is: 76%
+_______________
+
+Temperature: 24°C
+Humidity is: 76%
+_______________
+
+Temperature: 24°C
+Humidity is: 76%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 76%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 77%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 78%
+_______________
+
+Temperature: 24°C
+Humidity is: 79%
+_______________
+
+
