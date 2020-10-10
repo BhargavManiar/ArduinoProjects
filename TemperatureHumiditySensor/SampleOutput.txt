@@ -1,19 +1,12 @@
-The temperature is: 26
-The humidity is: 74
-The temperature is: 25
-The humidity is: 76
-The temperature is: 25
-The humidity is: 75
-The temperature is: 25
-The humidity is: 75
-The temperature is: 25
-The humidity is: 75
-The temperature is: 25
-The humidity is: 75
-The temperature is: 25
-The humidity is: 75
-The temperature is: 25
-The humidity is: 75
-The temperature is: 25
-The humidity is: 75
+Temperature: 26°C
+Humidity is: 71%
+_______________
 
+Temperature: 26°C
+Humidity is: 71%
+_______________
+
+Temperature: 26°C
+Humidity is: 72%
+_______________
+ 

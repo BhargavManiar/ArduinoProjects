@@ -1,6 +1,5 @@
 #include <dht.h>
 
-
 dht digitalSensor; // Object
 int sensorPin = 5;
 
@@ -13,11 +12,18 @@ void loop() {
   
   int temperature = digitalSensor.temperature;
   int humidity = digitalSensor.humidity;
-  
-  Serial.print("The temperature is: ");
-  Serial.println(temperature);
 
-  Serial.print("The humidity is: ");
-  Serial.println(humidity);
-  delay(2000);
+  
+  Serial.print("Temperature: ");
+  Serial.print(temperature);
+  Serial.println("°C");
+
+  Serial.print("Humidity is: ");
+  Serial.print(humidity);
+  Serial.println("%");
+
+  Serial.println("_______________");
+  Serial.println("");
+  
+  delay(10000);
 }
