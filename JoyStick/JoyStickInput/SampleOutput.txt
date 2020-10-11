@@ -1,0 +1,24317 @@
+___________________
+Starts from normal position and moves the JoyStick in a circular motion. 
+Ends with a press and relase of the button.
+___________________
+
+Start of Output: 
+
+axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 502
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 504
+Y-axis: 524
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 505
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 504
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 466
+
+
+Switch: 1
+X-axis: 505
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 505
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 505
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 505
+Y-axis: 524
+
+
+Switch: 1
+X-axis: 505
+Y-axis: 524
+
+
+Switch: 1
+X-axis: 504
+Y-axis: 522
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 522
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 502
+Y-axis: 522
+
+
+Switch: 1
+X-axis: 501
+Y-axis: 520
+
+
+Switch: 1
+X-axis: 500
+Y-axis: 518
+
+
+Switch: 1
+X-axis: 496
+Y-axis: 515
+
+
+Switch: 1
+X-axis: 494
+Y-axis: 514
+
+
+Switch: 1
+X-axis: 492
+Y-axis: 512
+
+
+Switch: 1
+X-axis: 486
+Y-axis: 516
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 531
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 532
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 532
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 535
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 539
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 543
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 549
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 554
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 555
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 559
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 566
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 579
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 582
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 588
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 594
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 603
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 606
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 608
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 615
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 621
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 625
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 629
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 635
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 641
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 648
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 654
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 660
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 666
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 673
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 679
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 688
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 694
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 707
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 721
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 729
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 737
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 749
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 764
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 771
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 779
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 793
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 804
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 811
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 825
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 835
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 844
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 852
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 866
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 875
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 881
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 888
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 897
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 901
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 906
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 911
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 920
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 924
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 928
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 932
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 938
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 952
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 959
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 966
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 978
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 998
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1010
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1018
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1020
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 506
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 503
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 502
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 500
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 498
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 496
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 494
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 487
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 470
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 463
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 461
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 458
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 448
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 429
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 421
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 414
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 403
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 397
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 390
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 381
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 376
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 371
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 364
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 355
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 348
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 343
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 337
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 323
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 314
+Y-axis: 1021
+
+
+Switch: 1
+X-axis: 302
+Y-axis: 1010
+
+
+Switch: 1
+X-axis: 297
+Y-axis: 1012
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 275
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 228
+Y-axis: 970
+
+
+Switch: 1
+X-axis: 214
+Y-axis: 642
+
+
+Switch: 1
+X-axis: 145
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 3
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 2
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 661
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1008
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 988
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 605
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 689
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 742
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 750
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 687
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 696
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 707
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 686
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 736
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 722
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 676
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 694
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 713
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 737
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 744
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 756
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 756
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 755
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 755
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 756
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 755
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 756
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 754
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 753
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 753
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 752
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 751
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 750
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 750
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 749
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 744
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 717
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 720
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 707
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 708
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 718
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 724
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 718
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 734
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 708
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 726
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 740
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 721
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 747
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 717
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 713
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 701
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 714
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1007
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 642
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1007
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1018
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 4
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1019
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 992
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 957
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 993
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1001
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 972
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 816
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1006
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1013
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1020
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 974
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1019
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1017
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1014
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 955
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 997
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1009
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1016
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1000
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1018
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1013
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1009
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1016
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1018
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1020
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1019
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1009
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 936
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 658
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 644
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 636
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 628
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 620
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 614
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 596
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 570
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 591
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 577
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 563
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 544
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 542
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 538
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 518
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 505
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 516
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 514
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 508
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 492
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 504
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 503
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 521
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 496
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 506
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 495
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 521
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 489
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 524
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 524
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 520
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 519
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 524
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 518
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 522
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 520
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 492
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 510
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 520
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 518
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 512
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 508
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 514
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 520
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 518
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 515
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 516
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 515
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 478
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 518
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 495
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 504
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 471
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 514
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 510
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 513
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 509
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 501
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 515
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 511
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 507
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 520
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 489
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 523
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 524
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 517
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 53
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 46
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 40
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 37
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 33
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 19
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 10
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 5
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 3
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 1
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 0
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 2
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 5
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 11
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 20
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 36
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 46
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 52
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 67
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 82
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 96
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 108
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 124
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 144
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 154
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 173
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 182
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 192
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 204
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 226
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 242
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 259
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 269
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 277
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 292
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 299
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 309
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 318
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 331
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 341
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 347
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 358
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 369
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 380
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 395
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 414
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 427
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 457
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 462
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 489
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 497
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 501
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 504
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 506
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 512
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 513
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 515
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 518
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 522
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 530
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 569
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 579
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 588
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 596
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 602
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 607
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 612
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 624
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 638
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 647
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 660
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 672
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 682
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 688
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 700
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 709
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 717
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 728
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 742
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 756
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 773
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 784
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 795
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 809
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 820
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 825
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 836
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 848
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 859
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 865
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 874
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 883
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 892
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 897
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 903
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 910
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 923
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 929
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 936
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 945
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 953
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 958
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 961
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 980
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 996
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1000
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1002
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1007
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1011
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1015
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1016
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1018
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1018
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1019
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1019
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1021
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 0
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 2
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 8
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 30
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 41
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 50
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 67
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 79
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 83
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 96
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 99
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 106
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 111
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 126
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 130
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 138
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 145
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 156
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 173
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 181
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 187
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 196
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 202
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 212
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 218
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 226
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 229
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 234
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 239
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 247
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 253
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 261
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 268
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 276
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 287
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 294
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 302
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 312
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 316
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 323
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 327
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 330
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 332
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 338
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 342
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 347
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 354
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 359
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 365
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 369
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 372
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 376
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 383
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 391
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 403
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 413
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 420
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 430
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 443
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 452
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 463
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 474
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 483
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 509
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 521
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 532
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 535
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 542
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 550
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 555
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 561
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 573
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 580
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 582
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 591
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 593
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 598
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 604
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 605
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 607
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 608
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 610
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 613
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 616
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 620
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 624
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 624
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 627
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 630
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 634
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 639
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 642
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 648
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 653
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 658
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 663
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 669
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 671
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 678
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 681
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 685
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 690
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 693
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 700
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 706
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 712
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 719
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 725
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 728
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 732
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 737
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 742
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 751
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 758
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 766
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 770
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 777
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 785
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 798
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 806
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 814
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 825
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 836
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 845
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 858
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 872
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 883
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 897
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 906
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 913
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 923
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 930
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 940
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 957
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 967
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 983
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1004
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1016
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1020
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1021
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1023
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1022
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1021
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1020
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1019
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1018
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1017
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1015
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 1008
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 1003
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 996
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 975
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 958
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 955
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 947
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 938
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 929
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 924
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 914
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 911
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 908
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 900
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 898
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 895
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 888
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 881
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 874
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 869
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 864
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 861
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 856
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 849
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 840
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 834
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 828
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 826
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 824
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 821
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 819
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 814
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 807
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 801
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 797
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 792
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 789
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 786
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 777
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 773
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 768
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 761
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 755
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 748
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 741
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 734
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 728
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 723
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 720
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 717
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 712
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 708
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 704
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 701
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 694
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 688
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 684
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 680
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 677
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 671
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 664
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 655
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 649
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 644
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 639
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 634
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 630
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 621
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 615
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 612
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 606
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 604
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 602
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 601
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 598
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 593
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 590
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 586
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 582
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 576
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 569
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 556
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 537
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 530
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 527
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 524
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 522
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 520
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 520
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 519
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 518
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 518
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 518
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 518
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 516
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 516
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 516
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 516
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 515
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 513
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 514
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 513
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 513
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 513
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 513
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 513
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 512
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 512
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 512
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 511
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 510
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1022
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 1023
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 997
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 911
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 839
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 759
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 672
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 585
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 525
+
+
+Switch: 1
+X-axis: 506
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 530
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 526
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 526
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 0
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 529
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 509
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 527
+
+
+Switch: 1
+X-axis: 508
+Y-axis: 528
+
+
+Switch: 1
+X-axis: 507
+Y-axis: 528
+
+
+Switch: 
