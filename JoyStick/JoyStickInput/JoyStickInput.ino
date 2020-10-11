@@ -9,3 +9,16 @@ void setup() {
   digitalWrite(Switch_Pin, HIGH); // Set the Switch pin as high 
   Serial.begin(115200);           // 12 Times the normal baud rate 
 }
+
+void loop() {
+  Serial.print("Switch: ");
+  Serial.print(digitalRead(Switch_Pin));
+  Serial.print("\n");
+  Serial.print("X-axis: ");
+  Serial.print(analogRead(X_pin));
+  Serial.print("\n");
+  Serial.print("Y-axis: ");
+  Serial.println(analogRead(Y_pin));
+  Serial.print("\n\n");
+  delay(500);
+}
