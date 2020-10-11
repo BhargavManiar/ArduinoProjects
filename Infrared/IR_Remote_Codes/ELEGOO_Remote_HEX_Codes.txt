@@ -1,0 +1,21 @@
+FFA25D > Power On/Off
+FF629D > Volume +
+FFE21D > Func/ Stop
+FF22DD > Rewind
+FF02FD > Play/Pause
+FFC23D > Fast Forward
+FFE01F > Down
+FFA857 > Volume - 
+FF906F > Up
+FF6897 > 0
+FF9867 > EQ
+FFB04F > ST/Recpt
+FF30CF > 1
+FF18E7 > 2
+FF7A85 > 3
+FF10EF > 4
+FF38C7 > 5
+FF5AA5 > 6
+FF42BD > 7
+FF4AB5 > 8
+FF52AD > 9

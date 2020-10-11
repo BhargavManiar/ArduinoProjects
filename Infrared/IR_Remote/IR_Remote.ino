@@ -18,8 +18,9 @@ void loop() {
     
     switch(results.value) {
       case 0xFF38C7: // This is button 5 on the remote. 
-      digitalWrite(redPin, HIGH);   // Turn the LED on
-      delay(2000);  // Wait 2 seconds 
+        digitalWrite(redPin, HIGH);   // Turn the LED on
+        delay(2000);  // Wait 2 seconds
+      case  
     }
 
     switch(results.value) {
