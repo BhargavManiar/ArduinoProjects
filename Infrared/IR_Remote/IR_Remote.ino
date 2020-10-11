@@ -7,7 +7,7 @@ const int redPin = 10;  // Controls one LED
 const int greenPin = 11;// Controls other LED
 
 void setup() {
-  irrecv.enableIRIN(); 
+  irrecv.enableIRIn(); 
   irrecv.blink13(true);
   pinMode(redPin, OUTPUT);
   pinMode(greenPin, OUTPUT);
@@ -23,8 +23,8 @@ void loop() {
     }
 
     switch(results.value) {
-      case 0xFF18E7 // This is button 2 on the remote. 
-      digitalWrite(greenPin, HIGH): // Turn the LED on
+      case 0xFF18E7: // This is button 2 on the remote. 
+      digitalWrite(greenPin, HIGH); // Turn the LED on
       delay(2000);  // Wait 2 seconds
     }
 
