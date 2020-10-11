@@ -1,21 +1,21 @@
-FFA25D > Power On/Off
-FF629D > Volume +
-FFE21D > Func/ Stop
-FF22DD > Rewind
-FF02FD > Play/Pause
-FFC23D > Fast Forward
-FFE01F > Down
-FFA857 > Volume - 
-FF906F > Up
-FF6897 > 0
-FF9867 > EQ
-FFB04F > ST/Recpt
-FF30CF > 1
-FF18E7 > 2
-FF7A85 > 3
-FF10EF > 4
-FF38C7 > 5
-FF5AA5 > 6
-FF42BD > 7
-FF4AB5 > 8
-FF52AD > 9
+0xFFA25D > Power On/Off
+0xFF629D > Volume +
+0xFFE21D > Func/ Stop
+0xFF22DD > Rewind
+0xFF02FD > Play/Pause
+0xFFC23D > Fast Forward
+0xFFE01F > Down
+0xFFA857 > Volume - 
+0xFF906F > Up
+0xFF6897 > 0
+0xFF9867 > EQ
+0xFFB04F > ST/Recpt
+0xFF30CF > 1
+0xFF18E7 > 2
+0xFF7A85 > 3
+0xFF10EF > 4
+0xFF38C7 > 5
+0xFF5AA5 > 6
+0xFF42BD > 7
+0xFF4AB5 > 8
+0xFF52AD > 9
