@@ -1,5 +1,5 @@
 # DC Motor
 
-## Project Information
-
-This project is to use a direct controlled motor with an arduino.
+## Programs Made
+1. MotorTest
+2. MotorSpeedControl
