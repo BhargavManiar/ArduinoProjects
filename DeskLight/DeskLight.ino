@@ -15,35 +15,35 @@
 
 /* Future Work 
  *------------------------
- * Lower CLK Speed   []
- * Document Function []
+ * Lower CLK Speed    []
+ * Document Functions []
  */
 // _____________Libraries_____________
 #include "FastLED.h"
 #include <avr/sleep.h>
 
 //_____________Macros_____________
-#define NUM_LEDS 16
+#define NUM_LEDS 14
 #define DATA_PIN 2
 #define TWO_HUNDRED_PI 628
-#define MIN_BRIGHTNESS 32
+#define MIN_BRIGHTNESS 128
 #define MAX_BRIGHTNESS 255 
 #define TRANSITION_DIM 2
 
 //_____________Variable Declarations_____________
-CRGB leds[NUM_LEDS];            // Array to indicate LEDs in sequence
+CRGB leds[NUM_LEDS];              // Array to indicate LEDs in sequence
 
-int element = 0;                // An element is an led defined by a sequential number
-int last_element = 0;           // The very last element initialised in the method
+int element = 0;                  // An element is an led defined by a sequential number
+int last_element = 0;             // The very last element initialised in the method
 
-bool postTest = false;          // For testing the LEDs
-bool startupValue = true;       // For the animation
+bool postTest = false;            // For testing the LEDs
+bool enableSerialMessages = false;// Serial Monitor
 
 //_____________Setup_____________
 void setup()
 { 
     FastLED.addLeds<WS2812B, DATA_PIN, RGB>(leds, NUM_LEDS); //delay for LED before turning on.
-    if(postTest) {
+    if(enableSerialMessages) {
       Serial.begin(9600);  // Sets up the serial baud = 9600  
     }
     set_sleep_mode(SLEEP_MODE_PWR_DOWN);
@@ -60,14 +60,14 @@ void loop()
     Serial.println("Exiting to main program");
   }
   startUpLEDAnimation();
+  dimLEDS();
   sleep_mode();
 }
 
 //_____________LED Control_____________
 
 // Reduces the brights to minimum brightness
-// @args: dimState - Boolean value for the state of dimming
-void dimLEDS(bool dimState) 
+void dimLEDS() 
 {
   for(int i = MAX_BRIGHTNESS; i >= MIN_BRIGHTNESS; i--)
   {
@@ -87,14 +87,14 @@ void startUpLEDAnimation()
         FastLED.show();
         if(element < last_element)
         {
-            leds[element].r = 128;
-            leds[element].b = 128;
+            leds[element].r = i;
+            leds[element].b = i;
             
             delay(10); // Start Up Delay
             FastLED.show();
         }
         last_element = element;
-      }   
+      }
 }
 
 // Turns off all of the leds
