@@ -28,7 +28,7 @@
 #define TWO_HUNDRED_PI 628
 #define MIN_BRIGHTNESS 128
 #define MAX_BRIGHTNESS 255 
-#define TRANSITION_DIM 2
+#define TRANSITION_DIM 4
 
 //_____________Variable Declarations_____________
 CRGB leds[NUM_LEDS];              // Array to indicate LEDs in sequence
@@ -56,9 +56,11 @@ void loop()
   {
     colourTest();
     postTest = false;
-    delay(1000);
+    delay(5000);
     Serial.println("Exiting to main program");
   }
+  turnOffLEDs();
+  delay(2000);
   startUpLEDAnimation();
   dimLEDS();
   sleep_mode();
