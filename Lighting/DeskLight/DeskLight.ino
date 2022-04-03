@@ -83,20 +83,12 @@ void dimLEDS()
 // @args: none
 void startUpLEDAnimation() 
 {
-      for(int i=0; i<TWO_HUNDRED_PI; i++)
-      {
-        element = round((NUM_LEDS-1)/2*(sin(i/100.0)+1));
-        FastLED.show();
-        if(element < last_element)
-        {
-            leds[element].r = i;
-            leds[element].b = i;
-            
-            delay(10); // Start Up Delay
-            FastLED.show();
-        }
-        last_element = element;
-      }
+  for(int ledElement = 0; ledElement < NUM_LEDS-1; ledElement ++) // For each LED
+  {
+    leds[ledElement].g = 255;
+    leds[ledElement].r = 255;
+  }
+  FastLED.show();
 }
 
 // Turns off all of the leds
@@ -159,7 +151,7 @@ void colourTest()
   turnOffLEDs();
   delay(100);
 
-  // Green LEDs
+  // All LEDs (White)
   for(int colour = 0; colour < 255; colour++ )
   {
       for(int i = 0; i < NUM_LEDS; i++)
