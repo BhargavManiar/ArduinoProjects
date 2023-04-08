@@ -1,0 +1,5 @@
+Interfaceing MPU-6050 - https://electrosome.com/interfacing-mpu-6050-gy-521-arduino-uno/
+
+CAN Bus Tutorial - https://circuitdigest.com/microcontroller-projects/arduino-can-tutorial-interfacing-mcp2515-can-bus-module-with-arduino
+
+CAN Bus - Explained - https://www.csselectronics.com/pages/can-bus-simple-intro-tutorial
