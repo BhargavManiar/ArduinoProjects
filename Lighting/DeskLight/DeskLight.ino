@@ -20,7 +20,7 @@
  */
 // _____________Libraries_____________
 #include "FastLED.h"
-#include <avr/sleep.h>
+//#include <avr/sleep.h>
 
 //_____________Macros_____________
 #define NUM_LEDS 14
@@ -36,8 +36,9 @@ CRGB leds[NUM_LEDS];              // Array to indicate LEDs in sequence
 int element = 0;                  // An element is an led defined by a sequential number
 int last_element = 0;             // The very last element initialised in the method
 
-bool postTest = false;            // For testing the LEDs
-bool enableSerialMessages = false;// Serial Monitor
+bool postTest = false;             // For testing the LEDs
+bool enableSerialMessages = true; // Serial Monitor
+bool starting = true;
 
 //_____________Setup_____________
 void setup()
@@ -46,7 +47,7 @@ void setup()
     if(enableSerialMessages) {
       Serial.begin(9600);  // Sets up the serial baud = 9600  
     }
-    set_sleep_mode(SLEEP_MODE_PWR_DOWN);
+//    set_sleep_mode(SLEEP_MODE_PWR_DOWN);
 }
 
 //_____________Main_____________
@@ -59,11 +60,15 @@ void loop()
     delay(5000);
     Serial.println("Exiting to main program");
   }
-  turnOffLEDs();
-  delay(2000);
-  startUpLEDAnimation();
-  dimLEDS();
-  sleep_mode();
+
+  if(starting) {
+    turnOffLEDs();
+    delay(2000);
+    startUpLEDAnimation();
+    dimLEDS();
+    starting = !starting;
+  }
+
 }
 
 //_____________LED Control_____________
@@ -85,8 +90,11 @@ void startUpLEDAnimation()
 {
   for(int ledElement = 0; ledElement < NUM_LEDS-1; ledElement ++) // For each LED
   {
-    leds[ledElement].g = 255;
     leds[ledElement].r = 255;
+    leds[ledElement].g = 0;
+    leds[ledElement].b = 255;
+    
+    
   }
   FastLED.show();
 }
