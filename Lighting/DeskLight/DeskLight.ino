@@ -27,22 +27,20 @@
 #define MIN_BRIGHTNESS 64
 #define MAX_BRIGHTNESS 255 
 #define TRANSITION_DIM 5
+#define BAUDRATE 9600
 
 //_____________Variable Declarations_____________
-CRGB leds[NUM_LEDS];              // Array to indicate LEDs in sequence
+CRGB leds[NUM_LEDS];        // Array to indicate LEDs in sequence
 
-int element = 0;                  // An element is an led defined by a sequential number
-int last_element = 0;             // The very last element initialised in the method
-
-bool postTest = false;            // For testing the LEDs
-bool enableSerialMessages = true; // Serial Monitor
-bool starting = true;
+bool postTest = false;      // For testing the LEDs
+bool serialMessages = true; // Serial Monitor
+bool starting = true;       // To Prevent Looping
 
 //_____________Setup_____________
 void setup() { 
     FastLED.addLeds<WS2812B, DATA_PIN, RGB>(leds, NUM_LEDS);
-    if(enableSerialMessages) {
-      Serial.begin(9600); 
+    if(serialMessages) {
+      Serial.begin(BAUDRATE); 
     }
 }
 
