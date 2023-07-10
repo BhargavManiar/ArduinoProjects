@@ -46,16 +46,14 @@ void setup() {
 
 //_____________Main_____________
 void loop()  {
-  Serial.println("Starting Program");
-  
   if(postTest == true) {
     colourTest();
     delay(5000);
     postTest = false;
-    Serial.println("Exiting to main program");
   }
 
   if(starting == true) {
+    Serial.println("Starting Program");
     turnOffLEDs();
     delay(2000);
     startUpLEDAnimation();
@@ -68,8 +66,8 @@ void loop()  {
 
 // Reduces the brights to minimum brightness
 void dimLEDS() {
-  for(int i = MAX_BRIGHTNESS; i >= MIN_BRIGHTNESS; i--) {
-    FastLED.setBrightness(i);
+  for(int level = MAX_BRIGHTNESS; level >= MIN_BRIGHTNESS; level--) {
+    FastLED.setBrightness(level);
     FastLED.show();
     delay(TRANSITION_DIM);
   }
@@ -92,10 +90,8 @@ void startUpLEDAnimation() {
 // Turns off all of the leds
 // @args: none
 void turnOffLEDs() {
-    for(int i = 0; i < NUM_LEDS; i++) {
-      leds[i].r = 0;
-      leds[i].g = 0;
-      leds[i].b = 0;
+    for(int LED = 0; LED < NUM_LEDS; LED++) {
+      leds[LED] = CRGB::Black;
     }
     Serial.println("LEDs Off");
 }
