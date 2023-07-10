@@ -90,11 +90,9 @@ void startUpLEDAnimation()
 {
   for(int ledElement = 0; ledElement < NUM_LEDS-1; ledElement ++) // For each LED
   {
-    leds[ledElement].r = 255;
-    leds[ledElement].g = 0;
-    leds[ledElement].b = 255;
-    
-    
+    leds[ledElement].r = 228;
+    leds[ledElement].g = 52;
+    leds[ledElement].b = 203;
   }
   FastLED.show();
 }
