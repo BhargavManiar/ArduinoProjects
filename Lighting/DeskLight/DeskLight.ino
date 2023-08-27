@@ -11,11 +11,6 @@
   Green |    Data    |      D2v
   Red   |    5v      |      5v
 */
-
-/* Future Work 
- *------------------------
- * Document Functions []
- */
  
 // _____________Libraries_____________
 #include "FastLED.h"
@@ -54,7 +49,6 @@ void loop()  {
 
   if(starting == true) {
     Serial.println("Starting Program");
-    turnOffLEDs();
     delay(2000);
     startUpLEDAnimation();
     dimLEDS();
@@ -76,8 +70,10 @@ void dimLEDS() {
 // Turns on the lights sequentially
 // @args: none
 void startUpLEDAnimation() {
+  Serial.println("Startup LED Animation");
   turnOffLEDs();
   delay(2000);
+  Serial.println("Setting up LEDs")
   for(int ledElement = 0; ledElement < NUM_LEDS; ledElement ++) {
     leds[ledElement].r = 228;
     leds[ledElement].g = 52;
